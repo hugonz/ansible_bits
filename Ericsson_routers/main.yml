@@ -1,0 +1,6 @@
+- hosts: routers
+  tasks: 
+    - name: run the version command
+      eccli_command: version
+      register: router_out
+
