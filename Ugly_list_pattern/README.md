@@ -15,7 +15,7 @@ router_output: |
   8 -rw- 95947248 Sep 2 2020 19:42:52 +00:00 c800-universalk9-mz.SPA.157-3.M4b.bin
 ```
 
-and we want to extract the image names at the end of the listing. 
+and we want to extract the image names at the end of the listing.
 
 You can do it with one of the lines, individually
 
@@ -29,5 +29,3 @@ output
 ```
 
 ```
-
-
